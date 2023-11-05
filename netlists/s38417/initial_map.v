@@ -329,7 +329,7 @@ output QN ;
 endmodule
 
 
-module s38417 ( blif_clk_net , blif_reset_net , g51 , g563 , g1249 , g1943 , 
+module s38417_bench ( blif_clk_net , blif_reset_net , g51 , g563 , g1249 , g1943 , 
     g2637 , g3212 , g3213 , g3214 , g3215 , g3216 , g3217 , g3218 , g3219 , 
     g3220 , g3221 , g3222 , g3223 , g3224 , g3225 , g3226 , g3227 , g3228 , 
     g3229 , g3230 , g3231 , g3232 , g3233 , g3234 , g3993 , g4088 , g4090 , 
