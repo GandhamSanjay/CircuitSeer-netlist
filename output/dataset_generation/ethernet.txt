@@ -1,0 +1,15 @@
+File: ./data/netlists/ethernet/initial_map.v
+Module: eth_top
+Netlist to Dot by Yosys: 3.677558660507202
+Removed 31474 constant nodes
+Removed 22107 NET nodes
+Removed 687 BUF nodes
+Removed 1148 clock gating cells
+IO: 211
+reg: 10544
+cell: 9512
+Removed 0 nodes
+Unconnected IO: 2 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 10.095812797546387

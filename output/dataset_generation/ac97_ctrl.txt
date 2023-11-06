@@ -1,0 +1,17 @@
+File: ./data/netlists/ac97_ctrl/initial_map.v
+Module: ac97_top
+Netlist to Dot by Yosys: 0.502392053604126
+Removed 6388 constant nodes
+Removed 4101 NET nodes
+Removed 1 BUF nodes
+Removed 83 clock gating cells
+IO: 132
+reg: 2200
+cell: 1766
+Removed 0 nodes
+Unconnected IO: 29 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 2.3292224407196045
+Found 16234 paths
+Removed 7151 duplicate paths

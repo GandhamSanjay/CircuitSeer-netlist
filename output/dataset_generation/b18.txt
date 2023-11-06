@@ -1,0 +1,17 @@
+File: ./data/netlists/b18/initial_map.v
+Module: b18
+Netlist to Dot by Yosys: 0.5740060806274414
+Removed 1555 constant nodes
+Removed 6098 NET nodes
+Removed 762 BUF nodes
+Removed 56 clock gating cells
+IO: 61
+reg: 744
+cell: 3474
+Removed 0 nodes
+Unconnected IO: 34 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 2.199882984161377
+Found 215429 paths
+Removed 199339 duplicate paths

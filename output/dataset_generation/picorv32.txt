@@ -1,0 +1,17 @@
+File: ./data/netlists/picorv32/initial_map.v
+Module: picorv32
+Netlist to Dot by Yosys: 0.6413934230804443
+Removed 5161 constant nodes
+Removed 5916 NET nodes
+Removed 1308 BUF nodes
+Removed 48 clock gating cells
+IO: 409
+reg: 1611
+cell: 2921
+Removed 1 nodes
+Unconnected IO: 173 removed
+Unconnected reg: 1 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 2.6709344387054443
+Found 89222 paths
+Removed 53145 duplicate paths
