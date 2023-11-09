@@ -1,0 +1,17 @@
+File: ./data/netlists/i2c/initial_map.v
+Module: i2c_master_top
+Netlist to Dot by Yosys: 0.06023359298706055
+Removed 296 constant nodes
+Removed 440 NET nodes
+Removed 51 BUF nodes
+Removed 10 clock gating cells
+IO: 33
+reg: 128
+cell: 248
+Removed 0 nodes
+Unconnected IO: 2 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 0.1035928726196289
+Found 1931 paths
+Removed 827 duplicate paths

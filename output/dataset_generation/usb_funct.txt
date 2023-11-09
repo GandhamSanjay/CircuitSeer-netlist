@@ -1,0 +1,17 @@
+File: ./data/netlists/usb_funct/initial_map.v
+Module: usbf_top
+Netlist to Dot by Yosys: 0.6943778991699219
+Removed 5214 constant nodes
+Removed 6310 NET nodes
+Removed 813 BUF nodes
+Removed 77 clock gating cells
+IO: 249
+reg: 1728
+cell: 3369
+Removed 0 nodes
+Unconnected IO: 28 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 3.13153076171875
+Found 90455 paths
+Removed 69567 duplicate paths

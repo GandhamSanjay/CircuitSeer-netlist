@@ -1,0 +1,17 @@
+File: ./data/netlists/pci_bridge32/initial_map.v
+Module: pci_bridge32
+Netlist to Dot by Yosys: 0.9450798034667969
+Removed 8188 constant nodes
+Removed 6427 NET nodes
+Removed 45 BUF nodes
+Removed 114 clock gating cells
+IO: 369
+reg: 3221
+cell: 3013
+Removed 0 nodes
+Unconnected IO: 9 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 3.5642192363739014
+Found 836836 paths
+Removed 811523 duplicate paths

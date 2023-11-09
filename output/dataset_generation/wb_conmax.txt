@@ -1,0 +1,17 @@
+File: ./data/netlists/wb_conmax/initial_map.v
+Module: wb_conmax_top
+Netlist to Dot by Yosys: 1.7750275135040283
+Removed 1822 constant nodes
+Removed 12005 NET nodes
+Removed 0 BUF nodes
+Removed 88 clock gating cells
+IO: 2546
+reg: 770
+cell: 12091
+Removed 0 nodes
+Unconnected IO: 0 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 5.510413408279419
+Found 486085 paths
+Removed 431050 duplicate paths

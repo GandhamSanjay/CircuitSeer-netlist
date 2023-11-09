@@ -1,0 +1,17 @@
+File: ./data/netlists/s13207/initial_map.v
+Module: s13207_bench
+Netlist to Dot by Yosys: 0.08138847351074219
+Removed 404 constant nodes
+Removed 617 NET nodes
+Removed 82 BUF nodes
+Removed 9 clock gating cells
+IO: 154
+reg: 212
+cell: 387
+Removed 0 nodes
+Unconnected IO: 79 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 0.14871501922607422
+Found 2261 paths
+Removed 703 duplicate paths

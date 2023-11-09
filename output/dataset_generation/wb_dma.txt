@@ -1,0 +1,17 @@
+File: ./data/netlists/wb_dma/initial_map.v
+Module: wb_dma_top
+Netlist to Dot by Yosys: 0.36418604850769043
+Removed 1491 constant nodes
+Removed 9725 NET nodes
+Removed 315 BUF nodes
+Removed 15 clock gating cells
+IO: 432
+reg: 524
+cell: 890
+Removed 0 nodes
+Unconnected IO: 1 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 1.3567523956298828
+Found 16605 paths
+Removed 8230 duplicate paths

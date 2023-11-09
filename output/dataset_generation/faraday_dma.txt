@@ -1,0 +1,17 @@
+File: ./data/netlists/faraday_dma/initial_map.v
+Module: dma_top
+Netlist to Dot by Yosys: 0.7036330699920654
+Removed 3726 constant nodes
+Removed 4845 NET nodes
+Removed 73 BUF nodes
+Removed 204 clock gating cells
+IO: 948
+reg: 1715
+cell: 2941
+Removed 0 nodes
+Unconnected IO: 131 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 2.116703987121582
+Found 116689 paths
+Removed 85898 duplicate paths

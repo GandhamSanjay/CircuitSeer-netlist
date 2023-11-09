@@ -1,0 +1,17 @@
+File: ./data/netlists/s38584/initial_map.v
+Module: s38584_bench
+Netlist to Dot by Yosys: 0.38280582427978516
+Removed 1562 constant nodes
+Removed 2853 NET nodes
+Removed 172 BUF nodes
+Removed 77 clock gating cells
+IO: 292
+reg: 785
+cell: 1856
+Removed 0 nodes
+Unconnected IO: 59 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 1.168123722076416
+Found 10909 paths
+Removed 4281 duplicate paths

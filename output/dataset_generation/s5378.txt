@@ -1,0 +1,17 @@
+File: ./data/netlists/s5378/initial_map.v
+Module: s5378_bench
+Netlist to Dot by Yosys: 0.14190006256103516
+Removed 241 constant nodes
+Removed 619 NET nodes
+Removed 5 BUF nodes
+Removed 0 clock gating cells
+IO: 86
+reg: 163
+cell: 464
+Removed 0 nodes
+Unconnected IO: 3 removed
+Unconnected reg: 0 removed
+Unconnected cell: 0 removed
+Dot to Igraph Graph preprocessing and pruning: 0.16361379623413086
+Found 5228 paths
+Removed 2809 duplicate paths
